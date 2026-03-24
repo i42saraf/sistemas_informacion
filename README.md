@@ -1,3 +1,4 @@
-# sistemas_informacion
-----
-Trabajo sistemas de información
+## sistemas_informacion
+--
+#Trabajo sistemas de información
+P2
